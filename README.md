@@ -2,6 +2,8 @@
 
 **CI** [![Build status](https://ci.appveyor.com/api/projects/status/xkidh2i33sqcurdk?svg=true)](https://ci.appveyor.com/project/kievsan/ahj-dom-game) 
 
+![in GitHub Pages](https://kievsan.github.io/ahj-dom-game/)
+
 
 Правила сдачи задания:
 
